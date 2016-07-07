@@ -1,0 +1,13 @@
+{"file":"towers.png","frames":{
+"ArrowTower01":{"x":171,"y":147,"w":84,"h":72,"offX":0,"offY":0,"sourceW":84,"sourceH":72},
+"ArrowTower02":{"x":1,"y":295,"w":84,"h":72,"offX":0,"offY":0,"sourceW":84,"sourceH":72},
+"ArrowTower03_1":{"x":97,"y":73,"w":88,"h":72,"offX":0,"offY":0,"sourceW":88,"sourceH":72},
+"ArrowTower03_2":{"x":1,"y":75,"w":80,"h":78,"offX":0,"offY":0,"sourceW":80,"sourceH":78},
+"MagicTower01":{"x":1,"y":369,"w":84,"h":72,"offX":0,"offY":0,"sourceW":84,"sourceH":72},
+"MagicTower02":{"x":89,"y":221,"w":74,"h":72,"offX":0,"offY":0,"sourceW":74,"sourceH":72},
+"MagicTower03_1":{"x":87,"y":295,"w":84,"h":72,"offX":0,"offY":0,"sourceW":84,"sourceH":72},
+"MagicTower03_2":{"x":1,"y":1,"w":94,"h":72,"offX":0,"offY":0,"sourceW":94,"sourceH":72},
+"ShieldTower01":{"x":171,"y":221,"w":84,"h":72,"offX":0,"offY":0,"sourceW":84,"sourceH":72},
+"ShieldTower02":{"x":1,"y":221,"w":86,"h":72,"offX":0,"offY":0,"sourceW":86,"sourceH":72},
+"ShieldTower03_1":{"x":83,"y":147,"w":86,"h":72,"offX":0,"offY":0,"sourceW":86,"sourceH":72},
+"ShieldTower03_2":{"x":97,"y":1,"w":96,"h":70,"offX":0,"offY":0,"sourceW":96,"sourceH":70}}}
